@@ -1,0 +1,8 @@
+node_modules/
+.env
+logs/
+.DS_Store
+
+# PM2 logs
+pm2.log
+

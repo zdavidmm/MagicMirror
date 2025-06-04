@@ -1,0 +1,12 @@
+/* Custom styles for portrait mode */
+body {
+  padding: 5px;
+}
+
+#module_0_clock {
+  margin-bottom: 10px;
+}
+
+.JAST {
+  font-size: 1.5em;
+}
